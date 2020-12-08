@@ -1,4 +1,4 @@
-# ActiveContourModel
+# Snake segmentation
 
 This project shows the implementation of one of the active contour segmentation methods, the "snakes" method. This method is based on the minimization of two energies: the internal energy related to the shape of the snake and the external energy dependent on the image. 
 
