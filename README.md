@@ -7,7 +7,9 @@ This project shows the implementation of one of the active contour segmentation 
 ```
 clone https://github.com/mousqtr/ActiveContourModel.git
 ```
-### Create and activate the virtual environment 
+or download and extract the .zip file
+
+### Create and activate the virtual environment in the folder
 ```
 python -m venv venv
 venv\Scripts\activate.bat
