@@ -19,6 +19,6 @@ python snake.py filename
 ```
 ### Examples
 ```
-python snake.py examples/goutte.png
-python snake.py examples/finger.png
+python snake.py images/goutte.png
+python snake.py images/finger.png
 ```
