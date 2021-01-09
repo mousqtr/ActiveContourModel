@@ -22,8 +22,14 @@ pip install -r requirements.txt
 ```
 python snake.py filename
 ```
-### Examples
+### Run the examples
 ```
 python snake.py images/goutte.png
 python snake.py images/finger.png
 ```
+
+## Example
+
+Original image |  Image with original snake | Image with final Snake
+:-------------------------:|:-------------------------:
+<img src="/resources/images/image1.png?raw=true" alt="original_image" style="width: 100px;"/>  |  <img src="/resources/images/image2.png?raw=true" alt="original_snake" style="width: 100px;"/> | <img src="/resources/images/final_snake.png?raw=true" alt="final_snake" style="width: 100px;"/>
